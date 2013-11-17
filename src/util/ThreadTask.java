@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 
 public class ThreadTask implements Runnable {
     private ArrayList<String> block;        //block - блок строк из csv-файла для разбора,
-    private CopyOnWriteArrayList result;    //result - массив накапливающий резульатыт работы каждого потока
+    private CopyOnWriteArrayList result;    //result - массив накапливающий результаты работы каждого потока
 
     public ThreadTask(ArrayList<String> b, CopyOnWriteArrayList<String> r){
         block = b;
