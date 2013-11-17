@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24102cab-4e8d-4c49-b53a-b02440f02c6a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/parser/CSVParserMultiThread.java" afterPath="$PROJECT_DIR$/src/parser/CSVParserMultiThread.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/Launcher.java" afterPath="$PROJECT_DIR$/src/test/Launcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/ThreadPool.java" afterPath="$PROJECT_DIR$/src/util/ThreadPool.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util/ThreadTask.java" afterPath="$PROJECT_DIR$/src/util/ThreadTask.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="src.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="24102cab-4e8d-4c49-b53a-b02440f02c6a" time="1384689140205" ignored="false" />
+    <file path="/Dummy.txt" changelist="24102cab-4e8d-4c49-b53a-b02440f02c6a" time="1384690639224" ignored="false" />
     <file path="/ThreadPool.java" changelist="24102cab-4e8d-4c49-b53a-b02440f02c6a" time="1384689759528" ignored="false" />
     <file path="/fragment.java" changelist="24102cab-4e8d-4c49-b53a-b02440f02c6a" time="1384599985896" ignored="false" />
     <file path="/ThreadTask.java" changelist="24102cab-4e8d-4c49-b53a-b02440f02c6a" time="1384689642009" ignored="false" />
@@ -96,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Launcher.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Launcher.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Launcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="9" selection-start="1926" selection-end="1926" vertical-scroll-proportion="0.0">
+            <state line="39" column="89" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.7473002">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#467#475#0" expanded="true" />
@@ -109,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CSVParserMultiThread.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CSVParserMultiThread.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/parser/CSVParserMultiThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="12" selection-start="496" selection-end="496" vertical-scroll-proportion="0.45945945">
+            <state line="19" column="12" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,10 +135,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/test/Launcher.java" />
         <option value="$PROJECT_DIR$/src/util/ThreadTask.java" />
         <option value="$PROJECT_DIR$/src/util/ThreadPool.java" />
         <option value="$PROJECT_DIR$/src/parser/CSVParserMultiThread.java" />
+        <option value="$PROJECT_DIR$/src/test/Launcher.java" />
       </list>
     </option>
   </component>
@@ -226,6 +223,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSVParser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -423,7 +438,11 @@
       <created>1384689145952</created>
       <updated>1384689145952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cleared">
+      <created>1384690648532</created>
+      <updated>1384690648532</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -444,7 +463,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6707819" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921812" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -569,22 +588,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/src/parser/CSVParserMultiThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="9" selection-start="1926" selection-end="1926" vertical-scroll-proportion="0.0">
+        <state line="19" column="12" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#467#475#0" expanded="true" />
-            <element signature="e#783#791#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/parser/CSVParserMultiThread.java">
+    <entry file="file://$PROJECT_DIR$/src/test/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="12" selection-start="496" selection-end="496" vertical-scroll-proportion="0.45945945">
+        <state line="39" column="89" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.7473002">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#467#475#0" expanded="true" />
+            <element signature="e#783#791#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -39,11 +39,6 @@ public class Launcher {
         }
         tp.shutdown();  //необходимо для корректного завершения работающих потоков и пула
 
-        while (!tp.isTerminated()){
-            System.out.println("Ожидаем завершение всех потоков");
-            Thread.sleep(100);
-        }
-
         //Вывод результирующего массива
         System.out.println("Результат");
         int c = 0;
